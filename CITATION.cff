@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite both the Kinova Gen3 Lerobot
+  Environment and the upstream LeRobot software listed under references.
+type: software
+title: Kinova Gen3 Lerobot Environment
+version: 0.1.0-beta.1
+date-released: 2026-09-01
+authors:
+  - family-names: Pyles
+    given-names: Connor
+    affiliation: Johns Hopkins University Applied Physics Laboratory
+  - family-names: Camargo
+    given-names: Frank
+    affiliation: Johns Hopkins University Applied Physics Laboratory
+  - family-names: Fifer
+    given-names: Mathew
+    affiliation: Johns Hopkins University Applied Physics Laboratory
+repository-code: https://github.com/JHUAPL/lerobot-kinova-gen3
+url: https://github.com/JHUAPL/lerobot-kinova-gen3
+license: Apache-2.0
+references:
+  - type: software
+    title: "LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch"
+    year: 2024
+    repository-code: https://github.com/huggingface/lerobot
+    authors:
+      - family-names: Cadene
+        given-names: Remi
+      - family-names: Alibert
+        given-names: Simon
+      - family-names: Soare
+        given-names: Alexander
+      - family-names: Gallouedec
+        given-names: Quentin
+      - family-names: Zouitine
+        given-names: Adil
+      - family-names: Palma
+        given-names: Steven
+      - family-names: Kooijmans
+        given-names: Pepijn
+      - family-names: Aractingi
+        given-names: Michel
+      - family-names: Shukor
+        given-names: Mustafa
+      - family-names: Aubakirova
+        given-names: Dana
+      - family-names: Russi
+        given-names: Martino
+      - family-names: Capuano
+        given-names: Francesco
+      - family-names: Pascal
+        given-names: Caroline
+      - family-names: Choghari
+        given-names: Jade
+      - family-names: Moss
+        given-names: Jess
+      - family-names: Wolf
+        given-names: Thomas
